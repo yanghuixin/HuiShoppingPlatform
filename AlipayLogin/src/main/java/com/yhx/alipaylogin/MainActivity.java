@@ -40,10 +40,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void alipayLogin(View view) {
-
+        initAlipayLogin();
     }
 
-    private void initStorData() {
+    private void initAlipayLogin() {
         String path1 = "http://app.tealg.com/api/app/Login.ashx";
         OkHttpClient mOkHttpClient = new OkHttpClient();
         Request.Builder requestBuilder = new Request.Builder().url(path1);
