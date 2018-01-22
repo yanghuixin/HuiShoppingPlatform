@@ -1,1 +1,1 @@
-include ':AlipayLogin'
+include ':app'

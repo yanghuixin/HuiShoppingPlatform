@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlipayLogin/AlipayLogin.iml" filepath="$PROJECT_DIR$/AlipayLogin/AlipayLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/HuiShoppingPlatform.iml" filepath="$PROJECT_DIR$/HuiShoppingPlatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
