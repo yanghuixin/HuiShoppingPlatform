@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlipayDemo/AlipayDemo.iml" filepath="$PROJECT_DIR$/AlipayDemo/AlipayDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlipayLogin/AlipayLogin.iml" filepath="$PROJECT_DIR$/AlipayLogin/AlipayLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/HuiShoppingPlatform.iml" filepath="$PROJECT_DIR$/HuiShoppingPlatform.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
